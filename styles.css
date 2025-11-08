@@ -1,0 +1,18 @@
+body {
+  background-color: #f5deb3; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#excuse {
+  font-size: 1.8rem; 
+  text-align: center;
+  padding: 20px;
+  background-color: #fff8dc; 
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
